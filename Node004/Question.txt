@@ -6,5 +6,8 @@ q2) what is package.json
 
  q4) what happen if node_module folder deleted
  q5) correct way to push ata on git (node_module files)
+
+ q6)  node js is a asyn language
+ 
  
 

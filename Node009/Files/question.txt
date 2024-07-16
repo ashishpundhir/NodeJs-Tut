@@ -1,0 +1,13 @@
+Node.js v18.16.0
+macos@MacOss-MacBook-Air Desktop % node "/Users/macos/Desktop/nodeClass/Node009/node010.js"
+<Buffer 74 68 65 20 66 69 6c 65 20 63 72 65 61 74 6f 72 20 69 73 20 41 73 68 69 73 68 20 50 75 6e 64 68 69 72>
+macos@MacOss-MacBook-Air Desktop % 
+
+this is the error coming after the 
+
+fs.readFile(filePath,(err,item)=>{
+ console.log(item);
+}) 
+
+
+q.1) what is buffer and how to solve it?

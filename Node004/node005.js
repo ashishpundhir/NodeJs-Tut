@@ -5,3 +5,6 @@
 // console.log('OMG Rainbows!'.rainbow); // rainbow
 // console.log('Run the trap'.trap); // Drops the bass
 
+console.log('ashish');
+console.log('pundhirnodeashish'); //nodemon instalation globally 
+

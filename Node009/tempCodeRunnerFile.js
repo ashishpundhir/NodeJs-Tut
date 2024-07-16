@@ -1,0 +1,1 @@
+fs.writeFileSync(`${dirPath}/file2.txt`,'the file creator is Ashish Pundhir');

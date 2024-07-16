@@ -1,0 +1,5 @@
+1.) can we get the file from our any system drive(outside the folder and create the file there or read the file from there)?
+
+Answer: NO, because when we run the node js in the folder then it works like a server . outside that iy wil not get the data from outside 
+
+yes there are some module like html code and some other things .
