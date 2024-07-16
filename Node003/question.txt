@@ -1,0 +1,4 @@
+Q.1.)  what does HTTP do in node js (const http = require('http'))
+
+ Q.2.) diffrence bitween arrow function and normal funtio0n 
+ 

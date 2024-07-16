@@ -1,0 +1,19 @@
+{
+  "name": "node004",
+  "version": "1.0.0",
+  "description": "a node package file",
+  "main": "node005.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ashish",
+    "pundhir"
+  ],
+  "author": "ashish pundhir",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.3",
+    "colors": "^1.4.0"
+  }
+}

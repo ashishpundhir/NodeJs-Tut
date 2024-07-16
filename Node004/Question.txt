@@ -1,0 +1,10 @@
+q1) all about package.json file
+q2) what is package.json
+ *it is like a heart of the project 
+
+ q3) node js is single threded or multy threded(imp ) and other related questions
+
+ q4) what happen if node_module folder deleted
+ q5) correct way to push ata on git (node_module files)
+ 
+
