@@ -8,10 +8,10 @@ const filePath = `${dirPath}/file1.txt`;
 
 
 
-//for read file
-// fs.readFile(filePath,(err,item)=>{
-//  console.log(item);
-// })
+// for read file
+fs.readFile(filePath, 'utf-8',(err,item)=>{
+ console.log(item);
+})
 
 
 

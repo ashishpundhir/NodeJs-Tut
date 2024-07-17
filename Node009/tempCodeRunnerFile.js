@@ -1,1 +1,3 @@
-fs.writeFileSync(`${dirPath}/file2.txt`,'the file creator is Ashish Pundhir');
+fs.readFile(filePath, 'utf-8',(err,item)=>{
+ console.log(item);
+})
