@@ -1,0 +1,9 @@
+1. what does Path function do?
+Answer In Node.js, the Path function isn't a specific function in itself. However, it likely refers to the path module in Node.js, which provides utilities for working with file and directory paths. This module includes functions like path.join(), path.resolve(), path.basename(), and others, which help manipulate and work with file paths in a platform-independent manner. These functions are essential for tasks such as constructing paths dynamically, resolving relative paths, extracting file names from paths, and more.
+
+
+2. what does static funtion do?
+Answer  in Node.js with Express, a static method typically refers to a method that is attached to a class itself rather than to instances of the class. In the context of Express, this might relate to defining utility functions or helper methods that are not tied to any specific instance of a route handler or middleware. Static methods can be useful for organizing code and promoting reusability across different parts of an application without needing to create new instances of objects. They are accessed directly from the class itself, providing a convenient way to encapsulate functionality that doesn't require access to instance-specific data.
+
+
+
